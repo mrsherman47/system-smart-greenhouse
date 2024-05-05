@@ -1,0 +1,358 @@
+.form {
+  display: grid;
+  grid-template-columns: auto;
+  grid-template-rows: auto;
+  justify-content: center;
+  padding: 10px;
+  size: 100%;
+}
+
+.form-1 {
+  font: 20px Arial;
+  display: grid;
+  grid-template-columns: 25cm;
+  grid-template-rows: auto;
+  justify-content: center;
+  padding-top: 2cm;
+  padding-left: 10px;
+  size: 100%;
+}
+
+b1{
+  font: 30px Arial;
+  font-weight: 700;
+  size: 100%;
+}
+
+n{
+  background-color: rgb(242, 181, 101);
+  padding: 1px;
+  size: 100%;
+}
+
+.partners {
+  font: 20px Arial;
+  display: grid;
+  grid-template-columns: 25cm;
+  grid-template-rows: auto auto;
+  justify-content: center;
+  padding-top: 10px;
+  gap: 1cm;
+  size: 100%;
+}
+
+.dostig{
+  margin-top: 50px;
+  font: 20px Arial;
+  display: grid;
+  grid-template-columns: 25cm;
+  grid-template-rows: auto;
+  justify-content: center;
+  size: 100%;
+}
+
+.bela{
+  font: 20px Arial;
+  display: grid;
+  grid-template-columns: 25cm;
+  grid-template-rows: auto;
+  justify-content: center;
+  size: 100%;
+}
+
+.bel{
+  margin-top: 1cm;
+  display: grid;
+  grid-template-columns: 8cm 8cm;
+  grid-template-rows: auto;
+  justify-content: center;
+  size: 100%;
+}
+.head {
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: auto;
+    justify-content: center;
+    size: 100%;
+}
+
+.thank {
+  margin-top: 2cm;
+  font: 21px Arial;
+  display: grid;
+  grid-template-columns: 25cm;
+  grid-template-rows: 80px;
+  justify-content: center;
+  size: 100%;
+}
+
+.main {
+  height: 100%;
+  margin-top: 30px;
+  font-family: sans-serif;
+  font: 30px Arial;
+  display: grid;
+  grid-template-columns: 10cm 12cm;
+  grid-template-rows: auto;
+  justify-content: center;
+  gap: 1cm;
+  size: 100%;
+}
+
+.main-el1 {
+  font-size: 40px;
+  font-weight: 650;
+  margin-left: 3cm;
+  margin-top: 120px;
+  size: 100%;
+}
+
+.main-el2 {
+  margin-top: 7px;
+   font: 24px Arial;
+   max-width: 27cm;
+   size: 100%;
+}
+
+.idea {
+  margin-top: 2cm;
+  font: 35px Arial;
+  display: grid;
+  grid-template-columns: auto;
+  grid-template-rows: 80px;
+  justify-content: center;
+  font-weight: 650;
+  size: 100%;
+}
+
+.text-idea {
+  margin-top: 20px;
+  font: 20px Arial;
+  display: grid;
+  grid-template-columns: 25cm;
+  grid-template-rows: auto auto;
+  justify-content: center;
+  size: 100%;
+}
+
+.ti-el1 {
+  font: 20px  Arial;
+  margin-left: 1cm;
+  size: 100%;
+}
+
+b{
+  font-size: 25px;
+  padding-left: 15px;
+  padding-bottom: 2px;
+  font-weight: 550;
+  size: 100%;
+}
+.work {
+  font: 20px  Arial;
+  display: grid;
+  grid-template-columns: auto;
+  grid-template-rows: auto auto;
+  justify-content: center;
+  size: 100%;
+}
+
+.work_os_el1 {
+  margin-top: 1cm;
+  font: 35px Arial;
+  font-weight: 650;
+  display: grid;
+  grid-template-columns: auto;
+  grid-template-rows: auto;
+  justify-content: center;
+  size: 100%;
+}
+
+fh{
+  font-size: 24px;
+  font-weight: 600;
+  size: 100%;
+}
+
+.el11 {
+  margin-top: 40px;
+  size: 100%;
+}
+
+.work_os_el3 {
+  margin-top: 30px;
+  font: 20px Arial;
+  display: grid;
+  grid-template-columns: 25cm;
+  grid-template-rows: auto;
+  justify-content: center;
+  size: 100%;
+}
+
+.work_os_el2 {
+  margin-top: 40px;
+  font: 20px Arial;
+  display: grid;
+  grid-template-columns: 12cm 12cm;
+  grid-column-gap: 10px;
+  grid-template-rows: auto;
+  justify-content: center;
+  size: 100%;
+}
+
+.work-el1 {
+  font: 35px Arial;
+  display: grid;
+  grid-template-columns: auto;
+  grid-template-rows: 80px;
+  justify-content: center;
+  font-weight: 650;
+  margin-top: 45px;
+  size: 100%;
+}
+
+.about-work {
+  margin-top: 21px;
+  font: 20px Arial;
+  display: grid;
+  grid-template-columns: 16cm 8cm;
+  grid-template-rows: auto;
+  justify-content: center;
+  size: 100%;
+}
+
+.eff{
+  margin-top: 2cm;
+  font: 35px Arial;
+  display: grid;
+  grid-template-columns: auto;
+  grid-template-rows: 80px;
+  justify-content: center;
+  font-weight: 650;
+  size: 100%;
+}
+
+.zeff {
+  margin-top: 18px;
+  font: 20px Arial;
+  display: grid;
+  grid-template-columns: 25cm;
+  grid-template-rows: auto;
+  justify-content: center;
+  size: 100%;
+}
+
+.el {
+  margin-top: 18px;
+  display: grid;
+  grid-template-columns: 7cm 7cm 7cm;
+  grid-template-rows: auto;
+  justify-content: center;
+  column-gap: 30px;
+  size: 100%;
+}
+
+.el3 {
+  margin-top: -8px;
+  size: 100%;
+}
+
+dh {
+  font-weight: 700;
+  size: 100%;
+}
+
+.block {
+  margin-top: 1cm;
+  background-color: #9261e2;
+  padding: 20px;
+  font: 18px  Arial;
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+  grid-template-rows: auto;
+  justify-content: center;
+  grid-gap: 40px;
+  size: 100%;
+}
+
+.hidden-menu {
+    display: block;
+    position: fixed;
+    list-style:none;
+    padding: 10px;
+    margin: 0;
+    box-sizing: border-box;
+    width: 205px;
+    background-color: #eee;
+    height: 100%;
+    line-height: 35px;
+    top: 0;
+    left: -210px;
+    transition: left .2s;
+    z-index: 2;
+    -webkit-transform: translateZ(0);
+    -webkit-backface-visibility: hidden;
+    size: 100%;
+  }
+  
+  .hidden-menu-ticker {
+    display: none;
+    size: 100%;
+  }
+  
+  .btn-menu {
+    color: #fff;
+    background-color: #182a3d;
+    padding: 7px;
+    position: fixed;
+    top: 5px;
+    left: 5px;
+    cursor: pointer;
+    transition: left .23s;
+    z-index: 3;
+    width: 25px;
+    -webkit-transform: translateZ(0);
+    -webkit-backface-visibility: hidden;
+    size: 100%;
+  }
+  .btn-menu span {
+    display: block;
+    height: 3px;
+    background-color: #fff;
+    margin: 5px 0 0;
+    transition: all .1s linear .23s;
+    position: relative;
+    size: 100%;
+  }
+  .btn-menu span.first {
+    margin-top: 0;
+    size: 100%;
+  }
+  
+  .hidden-menu-ticker:checked ~ .btn-menu {
+    left: 160px;
+    size: 100%;
+  }
+  .hidden-menu-ticker:checked ~ .hidden-menu {
+    left: 0;
+    size: 100%;
+  }
+  .hidden-menu-ticker:checked ~ .btn-menu span.first {
+    -webkit-transform: rotate(45deg);
+    top: 8px;
+    size: 100%;
+  }
+  .hidden-menu-ticker:checked ~ .btn-menu span.second {
+    opacity: 0;
+    size: 100%;
+  }
+  .hidden-menu-ticker:checked ~ .btn-menu span.third {
+    -webkit-transform: rotate(-45deg);
+    top: -8px; 
+    size: 100%;   
+  }
+
+  .ts {
+    font: 18px Arial;
+    size: 100%;
+  }
